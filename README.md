@@ -1,4 +1,4 @@
-# ConflictoKraken
+## ConflictoKraken
 | NOMBRE | GITHUB |
 |-------|--------|
 | Rosi Orias | [rosiorillo](https://github.com/rosiorillo) |
